@@ -1,4 +1,4 @@
-# supabase_auth
+# Supabase Auth
 
 A demo app with user authentication using Supabase
 
